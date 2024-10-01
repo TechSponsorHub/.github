@@ -1,6 +1,6 @@
 # Bem-vindo à TechSponsorHub 🚀
 
-## 🌱 Sobre Nós 
+## 🌱 Sobre Nós
 
 A organização **TechSponsorHub** foi criada como parte da **Iniciativa Sponsor**, um projeto destinado a promover o aprendizado e a colaboração na comunidade tech. Nossa missão é fornecer recursos valiosos e conteúdos educacionais para iniciantes e entusiastas em diversas áreas da tecnologia, com foco em projetos de código aberto.
 
